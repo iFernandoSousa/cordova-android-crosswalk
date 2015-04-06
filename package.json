@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tylerbuchea/cordova-android-crosswalk.git"
+    "url": "git://github.com/iFernandoSousa/cordova-android-crosswalk.git"
   },
   "bugs": {
     "url": "https://github.com/tylerbuchea/cordova-android-crosswalk/issues"
