@@ -10,7 +10,7 @@ This command line tool is an easy way to migrate your existing Cordova based (in
 You need Cordova and all of it's dependencies installed globally:
 
 ```sh
-$ npm install -g cordova-android-crosswalk
+$ npm install -g https://github.com/iFernandoSousa/cordova-android-crosswalk
 ```
 
 ### Usage
